@@ -10,4 +10,9 @@ public class Calculator {
 		int r = b - a;
 		System.out.println(r);
 	}
+	void multiplication(int a,int b) {
+		int result = a*b;
+		System.out.println(result);
+	}
+	
 }

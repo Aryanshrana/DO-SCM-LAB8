@@ -7,6 +7,7 @@ public class Main {
 		Calculator ob = new Calculator();
 		ob.addition(5,7);
 		ob.subtraction(12,65);
+		ob.multiplication(12, 7);
 	}
 
 }
