@@ -8,6 +8,7 @@ public class Main {
 		ob.addition(5,7);
 		ob.subtraction(12,65);
 		ob.multiplication(12, 7);
+		ob.power(12, 3);
 	}
 
 }

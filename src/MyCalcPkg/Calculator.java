@@ -14,5 +14,11 @@ public class Calculator {
 		int result = a*b;
 		System.out.println(result);
 	}
-	
+	void power(int a,int b) {
+		int ans=1;
+		for(int i=0;i<b;i++) {
+			ans = ans*a;
+		}
+		System.out.println(ans);
+	}
 }
