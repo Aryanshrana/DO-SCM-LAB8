@@ -6,6 +6,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		Calculator ob = new Calculator();
 		ob.addition(5,7);
+		ob.subtraction(12,65);
 	}
 
 }
